@@ -1,6 +1,6 @@
 # AuraHelm - The Future of Helmet Hygiene
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/erdemozer/kasclean)
 
 A stunning, single-page marketing website to showcase the innovative AuraHelm helmet cleaning machine. This project is built to be a visually breathtaking, responsive digital storefront, educating potential customers about the product's features, technology, and benefits. Inspired by modern tech websites, it features a minimalist dark-themed design, a sophisticated color palette with vibrant accents, smooth animations, and interactive elements to create an engaging user experience.
 
@@ -74,7 +74,7 @@ This project is optimized for deployment on Cloudflare Pages.
 
 You can deploy this project to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/erdemozer/kasclean)
 
 ### Manual Deployment with Wrangler
 
